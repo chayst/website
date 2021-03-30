@@ -3,7 +3,7 @@ author: chayst
 email: thibault@chays.dev
 description: > # this means to ignore newlines until "baseurl:"
   This portal gathers all Thibault Chays websites and apps.
-theme: minima
+theme: jekyll-theme-minimal
 
 # social links
 twitter_username: Thibault_Chays # DO NOT include the @ character, or else the build will fail!
