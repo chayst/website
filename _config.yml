@@ -1,0 +1,12 @@
+title: Thibault Chays website
+author: chayst
+email: thibault@chays.dev
+description: > # this means to ignore newlines until "baseurl:"
+  This portal gathers all Thibault Chays websites and apps.
+theme: minima
+
+# social links
+twitter_username: Thibault_Chays # DO NOT include the @ character, or else the build will fail!
+github_username:  chayst # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
